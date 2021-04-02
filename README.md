@@ -1,10 +1,9 @@
-# vlbi_noise
 
 Some codes to repeat all my results in determination of the internal error of VLBI catalogs.
 
 ---
 
-# Info
+# Information
 
 Title: Determining the accuracy of VLBI radio source catalogs
 
